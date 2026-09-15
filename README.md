@@ -6,12 +6,13 @@ The project starts with a raw retail sales dataset, cleans and standardizes the 
 
 File                                Description
 
-retail_sales_rawdata.csv    -- >    Original raw retail sales dataset
+retail_sales_rawdata.csv    -- >   Original raw retail sales dataset
 
 cleaned_data.csv            -- >  Cleaned dataset after data
 preprocessing
 
-data_cleaning.ipynb         -- >  Python notebook containing the data
-cleaning process
+data_cleaning.ipynb         -- >  Python notebook containing the data cleaning process
 
-EDA_PYTHON.ipynb             -- > Python notebook containing exploratory data analysis and visualizations
+EDA_EXCEL.ipynb             -->   EDA by using EXCEL
+
+EDA_PYTHON.ipynb            -- >  Python notebook containing exploratory data analysis and visualizations
